@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1575133494 source:c:\users\felipe honorato\desktop\roteiro\q6\src\pagamento.cpp
+	"Pagamento.h"
+	<iostream>
+
+1575131739 c:\users\felipe honorato\desktop\roteiro\q6\include\pagamento.h
+	<iostream>
+
+1575134462 source:c:\users\felipe honorato\desktop\roteiro\q6\main.cpp
+	<iostream>
+	<string>
+	"Pagamento.h"
+	"ControleDePagamentos.h"
+
+1575132946 c:\users\felipe honorato\desktop\roteiro\q6\include\controledepagamentos.h
+	"Pagamento.h"
+
+1575133883 source:c:\users\felipe honorato\desktop\roteiro\q6\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+	"Pagamento.h"
+

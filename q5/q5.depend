@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1574879981 source:c:\users\felipe honorato\desktop\roteiro\q5\src\despesa.cpp
+	"Despesa.h"
+	<iostream>
+	<string>
+
+1574876871 c:\users\felipe honorato\desktop\roteiro\q5\include\despesa.h
+	<iostream>
+	<string>
+
+1574880136 source:c:\users\felipe honorato\desktop\roteiro\q5\main.cpp
+	<iostream>
+	"Despesa.h"
+	"ControleDeGastos.h"
+	<string>
+
+1574877281 source:c:\users\felipe honorato\desktop\roteiro\q5\src\controlegastos.cpp
+
+1574876153 c:\users\felipe honorato\desktop\roteiro\q5\include\controlegastos.h
+	"Despesa.h"
+
+1574878161 c:\users\felipe honorato\desktop\roteiro\q5\include\controledegastos.h
+	"Despesa.h"
+	<iostream>
+	<string>
+
+1574879274 source:c:\users\felipe honorato\desktop\roteiro\q5\src\controledegastos.cpp
+	"ControleDeGastos.h"
+	<string>
+	<iostream>
+
